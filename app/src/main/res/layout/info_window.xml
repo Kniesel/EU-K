@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:weightSum="100"
+    android:minWidth="700px">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="50"
+            android:src="@mipmap/ams" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_weight="50"
+            android:orientation="vertical">
+            <TextView
+                android:text="location"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="match_parent"
+                android:id="@+id/txtWindowLocation"
+                android:gravity="center"
+                android:layout_marginBottom="10dp"
+                android:textColor="#000"
+                android:layout_height="60dp" />
+            <TextView
+                android:text="street"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="match_parent"
+                android:id="@+id/txtWindowStreet"
+                android:gravity="center"
+                android:layout_marginBottom="10dp"
+                android:textColor="#000"
+                android:layout_height="60dp" />
+            <TextView
+                android:text="object"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="match_parent"
+                android:id="@+id/txtWindowObject"
+                android:gravity="center"
+                android:layout_marginBottom="10dp"
+                android:textColor="#000"
+                android:layout_height="60dp" />
+            <TextView
+                android:text="rating"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="match_parent"
+                android:id="@+id/txtWindowRating"
+                android:gravity="center"
+                android:layout_marginBottom="10dp"
+                android:textColor="#000"
+                android:layout_height="30dp" />
+
+        </LinearLayout>
+</LinearLayout>

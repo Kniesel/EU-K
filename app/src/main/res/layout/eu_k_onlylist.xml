@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:weightSum="100"
+    android:minWidth="700px"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_weight="50"
+        android:orientation="vertical">
+    <TextView
+        android:text="location"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_marginBottom="10dp"
+        android:textColor="#000"
+        android:id="@+id/txtLocation"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:layout_width="wrap_content" />
+
+    <TextView
+        android:id="@+id/txtStreet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="left"
+        android:text="location"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_marginBottom="10dp"
+        android:textColor="#000"
+        />
+
+    <TextView
+        android:id="@+id/txtObject"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="left"
+        android:text="location"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_marginBottom="10dp"
+        android:textColor="#000"
+        />
+    </LinearLayout>
+    <ImageView
+        android:layout_width="96dp"
+        android:layout_weight="50"
+        android:src="@mipmap/handicapped"
+        android:layout_height="96dp" />
+
+</LinearLayout>

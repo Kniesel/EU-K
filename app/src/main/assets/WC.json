@@ -1,0 +1,395 @@
+{
+  "restroom": [{
+    "location": "Bruck a.d. Mur",
+    "street": "Bahnweg 9",
+    "object": "Liechtensteinfriedhof",
+    "lat": 47.406206,
+    "long":15.270932,
+    "rating":5
+  }, {
+    "location": "Bruck a.d. Mur",
+    "street": "Dr.-Theodor-Körner-Str. 34",
+    "object": "Bezirkshauptmannschaft Bruck a.d.Mur",
+    "lat":47.408217,
+    "long":15.264607,
+    "rating":5
+  }, {
+    "location": "Bruck a.d. Mur",
+    "street": "Koloman-Wallisch-Platz 1",
+    "object": "Stadt Bruck",
+    "lat":47.410560,
+    "long":15.268727,
+    "rating":4
+  }, {
+    "location": "Bruck a.d. Mur",
+    "street": "Mitterg. 11–15",
+    "object": "Altstadtgalerie",
+    "lat":47.410602,
+    "long":15.271320,
+    "rating":4
+  }, {
+    "location": "Bruck a.d. Mur",
+    "street": "Murinsel 1",
+    "object": "Stadion-Murinsel",
+    "lat":47.406078,
+    "long":15.254672,
+    "rating":3
+  }, {
+    "location": "Bruck a.d. Mur",
+    "street": "Murkai",
+    "object": "Hochgarage",
+    "lat":47.407105,
+    "long":15.259571,
+    "rating":3
+  }, {
+    "location": "Frohnleiten",
+    "street": "Brucker Str. 2",
+    "object": "Tech. Marketingcenter Frohnleiten GmbH",
+    "lat":47.271923,
+    "long":15.328648,
+    "rating":2
+  }, {
+    "location": "Graz",
+    "street": "Albert-Schweizer-G. 36a",
+    "object": "Oeverparksee-Park",
+    "lat":47.070714,
+    "long":15.439504,
+    "rating":2
+  }, {
+    "location": "Graz",
+    "street": "Albrechtg. 1",
+    "object": "Grazer Congress",
+    "lat":47.070025,
+    "long":15.437509,
+    "rating":1
+  }, {
+    "location": "Graz",
+    "street": "Andreas-Hofer-Platz 15",
+    "object": "Holding AG - Stadtwerke",
+    "lat":47.068621,
+    "long":15.436685,
+    "rating":1
+  }, {
+    "location": "Graz",
+    "street": "Andreas-Hofer-Platz 16",
+    "object": "GBG Hausverwaltung (Holding Graz GmbH)",
+    "lat":47.068844,
+    "long":15.436631,
+    "rating":0
+  }, {
+    "location": "Graz",
+    "street": "Auenbruggerplatz 1",
+    "object": "LKH Graz-Objekt Eingangszentrum",
+    "lat":47.079319,
+    "long":15.465423,
+    "rating":0
+  }, {
+    "location": "Graz",
+    "street": "Babenbergerstr. 33",
+    "object": "AMS-Steiermark",
+    "lat":47.074056,
+    "long":15.419988,
+    "rating":5
+  }, {
+    "location": "Graz",
+    "street": "Babenbergerstr. 33",
+    "object": "AMS-Steiermark",
+    "lat":47.074056,
+    "long":15.419988,
+    "rating":5
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Hogwarts!!!",
+    "street": "",
+    "object": "",
+    "lat":-30.464322,
+    "long":152.8239655
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }, {
+    "location": "Lorem",
+    "street": "ipsum",
+    "object": "dolor",
+    "lat":47.453557,
+    "long":15.331721
+  }]
+}

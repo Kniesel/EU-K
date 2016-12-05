@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EU-K</string>
+    <string name="title_activity_maps">Carte</string>
+    <string name="title_activity_eu__k__map">Carte</string>
+    <string name="showLocation">Montrez ma position</string>
+    <string name="searchCity">Cherchez une ville</string>
+    <string name="sendButton">Envoyer</string>
+    <string name="wholeList">Toutes les entrées</string>
+    <string name="emptyField">Entrez une ville</string>
+</resources>

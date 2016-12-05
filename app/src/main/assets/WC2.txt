@@ -1,0 +1,13 @@
+Bruck a.d. Mur:Bahnweg 9:Liechtensteinfriedhof:W,
+Bruck a.d. Mur:Dr.-Theodor-Körner-Str. 34:Bezirkshauptmannschaft Bruck a.d.Mur:W,
+Bruck a.d. Mur:Koloman-Wallisch-Platz 1:Stadt Bruck:W,
+Bruck a.d. Mur:Mitterg. 11–15:Altstadtgalerie:W,
+Bruck a.d. Mur:Murinsel 1:Stadion-Murinsel:W,
+Bruck a.d. Mur:Murkai:Hochgarage:W,
+Frohnleiten:Brucker Str. 2:Tech. Marketingcenter Frohnleiten GmbH:W,
+Graz:Albert-Schweizer-G. 36a:Oeverparksee-Park:W,
+Graz:Albrechtg. 1:Grazer Congress:W,
+Graz:Andreas-Hofer-Platz 15:Holding AG - Stadtwerke:W,
+Graz:Andreas-Hofer-Platz 16:GBG Hausverwaltung (Holding Graz GmbH):W,
+Graz:Auenbruggerplatz 1:LKH Graz-Objekt Eingangszentrum:W,
+Graz:Babenbergerstr. 33:AMS-Steiermark:W

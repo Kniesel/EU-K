@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EU-K</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_eu__k__map">Map</string>
+    <string name="showLocation">Show my position</string>
+    <string name="searchCity">Search for a city</string>
+    <string name="sendButton">Send</string>
+    <string name="wholeList">All entries</string>
+    <string name="emptyField">Please enter a city</string>
+    <string name="title_activity_maped_list">Map</string>
+    <string name="introduction">Welcome to EU-K! \n\nThe Eurokeys App for checking your next accessible facility.</string>
+</resources>
